@@ -1,0 +1,14 @@
+name: PhyKingdoms
+version: 2.0
+softdepend: [PlayerPoints, Vault]
+author: Phytion
+
+main: me.PepijnvdBerg.kingdombuild.Main
+
+commands:
+  oorlog:
+  k:
+  kingdom:
+  kspy:
+  kchat:
+  stats:
